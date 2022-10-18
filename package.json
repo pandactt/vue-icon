@@ -1,6 +1,6 @@
 {
   "name": "vue-icon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "iconfont",
   "main": "bundle/index.common.js",
   "files": [
