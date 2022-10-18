@@ -1,13 +1,13 @@
 {
-  "name": "juuust-vue-icon",
-  "version": "0.1.1",
-  "description": "Juuust Vue Icon, Automation workflow with Figma",
+  "name": "vue-icon",
+  "version": "0.0.0",
+  "description": "iconfont",
   "main": "bundle/index.common.js",
   "files": [
     "dist",
     "es"
   ],
-  "repository": "https://github.com/leadream/juuust-vue-icon.git",
+  "repository": "https://github.com/pandactt/iconfont.git",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "serve": "vue-cli-service serve",
