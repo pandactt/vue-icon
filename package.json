@@ -8,7 +8,7 @@
     "dist",
     "es"
   ],
-  "repository": "https://github.com/pandactt/iconfont.git",
+  "repository": "https://github.com/pandactt/vue-icon.git",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "serve": "vue-cli-service serve",
