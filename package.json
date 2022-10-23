@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "iconfont",
   "main": "bundle/index.common.js",
-  "license": "ISC",
+  "license": "MIT",
   "files": [
     "dist",
     "es"
