@@ -1,9 +1,9 @@
 {
   "name": "figmashuiku",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "iconfont",
   "main": "bundle/index.common.js",
-  "license": "MIT",
+  "license": "none",
   "files": [
     "dist",
     "es"
