@@ -4,7 +4,7 @@
     <div class="code">
       <div>
         <h3>Installation</h3>
-        <pre><code>npm install juuust-vue-icon --save<br/>yarn add juuust-vue-icon</code></pre>
+        <pre><code>npm install figmashuiku --registry=https://registry.npmjs.org --save<br/>yarn add juuust-vue-icon</code></pre>
       </div>
       <div>
         <h3>Usage</h3>
