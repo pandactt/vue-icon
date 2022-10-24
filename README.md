@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# vue-icon
 
 ## Project setup
 ```
